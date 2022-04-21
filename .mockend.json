@@ -1,16 +1,18 @@
 {
   "User": {
-    "name": {
-      "string": {}
-    },
-    "phone": {
-      "regexp": "09[0-9]{9}"
-    },
-    "text": {
-      "string": {}
-    },
-    "time": {
-      "regexp": "[0-12]{2}:[0-2]{1}[0-9]{1}"
-    }
+	{
+		"id": 1,
+		"name": "cvRhuZicvV",
+		"phone": "09642759247",
+		"text": "d7zesKQgVL",
+		"time": "00:00"
+	},
+	{
+		"id": 2,
+		"name": "P5hBDBonm3",
+		"phone": "09411084077",
+		"text": "5kdhji11cm",
+		"time": "01:02"
+	},
   }
 }
