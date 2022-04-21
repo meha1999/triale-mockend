@@ -4,7 +4,6 @@
     "phone": { "string": {} },
     "text": { "string": {} },
     "time": { "string": {} },
-
   },
   "Comment": {
     "body": { "string": {} },
