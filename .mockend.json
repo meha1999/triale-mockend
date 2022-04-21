@@ -4,16 +4,13 @@
       "string": {}
     },
     "phone": {
-      "regexp": "0#[1-9]{10}"
+      "regexp": "09[0-9]{9}"
     },
     "text": {
-      "string": [
-        "working from home",
-        "watching Netflix"
-      ]
+      "string": {}
     },
     "time": {
-      "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
+      "regexp": "[0-12]{2}:[0-59]{2}"
     }
   }
 }
