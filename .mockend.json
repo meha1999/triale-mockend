@@ -4,7 +4,7 @@
       "string": {}
     },
     "phone": {
-      "regexp": "/^\{10}$/"
+      "regexp": "0#[1-9]{10}"
     },
     "text": {
       "string": [
