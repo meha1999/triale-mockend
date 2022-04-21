@@ -1,15 +1,14 @@
 {
-  "name": {
-    "title": {
-      "string": {}
+  "Post": {
+    "title": { "string": {} },
+    "comments": {
+      "hasMany": "Comment"
     }
   },
-  "phone": {
-      "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
-    },
-  "text": {
-    "title": {
-      "string": {}
+  "Comment": {
+    "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
     }
   }
 }
