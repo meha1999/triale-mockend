@@ -1,4 +1,18 @@
 {
+  "Contacts":{
+    "name":{
+      "string": {}
+    },
+    "phone":{
+      "string": {}
+    },
+    "text":{
+      "string": {}
+    },
+    "time":{
+      "string": {}
+    },
+  },
   "Post": {
     "title": { "string": {} },
     "comments": {
