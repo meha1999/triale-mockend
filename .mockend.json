@@ -3,16 +3,16 @@
     "name": {
       "string": {}
     },
-    "avatarUrl": {
+    "phone": {
       "regexp": "https://i\\.pravatar\\.cc/150?u=[0-9]{5}"
     },
-    "statusMessage": {
+    "text": {
       "string": [
         "working from home",
         "watching Netflix"
       ]
     },
-    "email": {
+    "time": {
       "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
     },
     "color": {
